@@ -1,0 +1,114 @@
+body {
+	background: url('../media/procreate2.jpg');
+	background-color: #161e32;
+	color: #f0fafa;
+	font-family: 'Marcellus', serif;
+	text-align: center;
+	margin-left: 1.5em;
+	margin-right: 1.5em;
+	margin-top: 0.5em;
+}
+
+table {
+	width: 80%;
+	margin-right: auto;
+	margin-left: auto;
+	margin-top: 2.5em;
+	padding: 25px;
+	color: #fff;
+	border-collapse: collapse;
+}
+
+.datafield {
+	background-color: #626c80;
+	font-weight: 700;
+	padding: 5px;
+	border: solid #4b5261;
+	border-width: 2px;
+	border-collapse: collapse;
+	text-decoration: underline;
+}
+
+.planetname {
+	background-color: #626c80;
+	font-weight: 700;
+	padding: 5px;
+	border: solid #4b5261;
+	border-width: 2px;
+	border-collapse: collapse;
+}
+
+.planetname a:link {
+	background-color: #626c80;
+	color: #f0fafa;
+}
+
+.planetname:hover a:hover {
+	background-color: #626c80;
+	color: #5a6273;
+}
+
+.planetname a:active {
+	background-color: #626c80;
+	color: #5a5f6b;
+}
+
+.planetname a:visited {
+	background-color: #626c80;
+	color: #f0fafa;
+}
+
+h1 {
+	font-family: 'Fredericka the Great', serif;
+	font-weight: 700;
+	font-size: 50px;
+	word-spacing: 2px;
+	letter-spacing: 2px;
+	padding: 2px;
+	text-decoration-line: underline;
+	text-decoration-style: solid;
+	text-decoration-color: #f0fafa;
+}
+
+p {
+	font-family: 'DM Serif Display', serif;
+	font-weight: 500;
+}
+
+a.source:link {
+	color: #f0fafa;
+	text-decoration: none;
+}
+
+a.source:hover {
+	color: #6c6d73;
+	text-decoration: underline;
+}
+
+a.source:visited {
+	color: #f0fafa;
+	text-decoration: none;
+}
+
+a.img:link {
+	opacity: 1;
+}
+
+a.img:hover {
+	opacity: 0.5;
+}
+
+a.img:visited {
+	opacity: 1;
+}
+
+th,
+td {
+	background-color: #7c8699;
+	font-family: 'DM Serif Display', serif;
+	font-weight: 500;
+	padding: 10px 5px;
+	border: solid #4b5261;
+	border-width: 2px;
+	border-collapse: collapse;
+}
